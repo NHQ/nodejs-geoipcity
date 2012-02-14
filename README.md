@@ -18,6 +18,7 @@ geoip.lookup( 'licenceKey', '8.8.8.8', function(data) {
 The callback function returns an object with these elements:
 
 ```
+target
 countryCode
 regionCode
 city
