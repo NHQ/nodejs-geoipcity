@@ -1,6 +1,6 @@
 {
 	"name": "geoipcity",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "lookup IP details with Maxmind GeoIP City webservice",
 	"tags": ["http", "geoip", "maxmind"],
 	"authors": "Franklin van de Meent <fr@nkl.in>",
